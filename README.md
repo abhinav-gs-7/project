@@ -22,3 +22,9 @@ It follows Object-Oriented Programming (OOP) principles — including Encapsulat
 🧠 Concepts Used
 >>Encapsulation → For securing account and employee data using private fields and public getters/setters
 >>Inheritance → Manager and Employee classes inherit from a common Person or User superclass
+
+👨‍💻 Author
+
+Abhinav Sundaram
+📍 India
+💬 “From OOP to real-world logic — building systems that work smarter.”
