@@ -1,0 +1,170 @@
+------Login-----
+1.Manager
+2.Employe
+3.Exit
+1
+Enter your password
+123
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+1
+Enter Account holder Name: 
+vijay
+Enter Account Number: 
+01
+Account Created
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+1
+Enter Account holder Name: 
+ajay
+Enter Account Number: 
+02
+Account Created
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+2
+Account number to be deleted
+02
+Account Removed
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+3
+------All accoount Details------
+Account Holder Name : vijay
+Account Number : 1
+Balance : 0.0
+------End of Details------
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+4
+------Logining out thank you------
+------Login-----
+1.Manager
+2.Employe
+3.Exit
+2
+Enter a choice
+1.Deposit
+2.withdraw
+3.transfer
+4.exit
+1
+enter account Number01
+Enter amount2000
+Money Deposited
+Enter a choice
+1.Deposit
+2.withdraw
+3.transfer
+4.exit
+2
+enter account Number01
+Enter amount1000
+Money Withdrawed
+Enter a choice
+1.Deposit
+2.withdraw
+3.transfer
+4.exit
+4
+Thank You
+------Login-----
+1.Manager
+2.Employe
+3.Exit
+1
+Enter your password
+123
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+1
+Enter Account holder Name: 
+pooja
+Enter Account Number: 
+02
+Account Created
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+4
+------Logining out thank you------
+------Login-----
+1.Manager
+2.Employe
+3.Exit
+2
+Enter a choice
+1.Deposit
+2.withdraw
+3.transfer
+4.exit
+3
+Enter sender account number
+01
+Enter reciver account number 
+02
+Enter amount 
+1000
+Money Withdrawed
+Money Deposited
+Enter a choice
+1.Deposit
+2.withdraw
+3.transfer
+4.exit
+4
+Thank You
+------Login-----
+1.Manager
+2.Employe
+3.Exit
+1
+Enter your password
+123
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+3
+------All accoount Details------
+Account Holder Name : vijay
+Account Number : 1
+Balance : 0.0
+Account Holder Name : pooja
+Account Number : 2
+Balance : 1000.0
+------End of Details------
+Enetr a choice
+1.Create a Account : 
+2.Delete a Account : 
+3.Display all accounts : 
+4.Logout : 
+4
+------Logining out thank you------
+------Login-----
+1.Manager
+2.Employe
+3.Exit
+^A  
